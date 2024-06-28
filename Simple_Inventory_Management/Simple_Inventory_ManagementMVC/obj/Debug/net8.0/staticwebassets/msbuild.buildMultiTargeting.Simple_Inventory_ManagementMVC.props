@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simple_Inventory_ManagementMVC.props" />
+</Project>

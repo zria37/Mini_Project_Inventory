@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\dal\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\dal\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|f:\\pa agus kurniawan\\simple_inventory_management\\simple_inventory_managementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3275DA91-3021-46EC-A76B-079FA50B1136}|Simple_Inventory_ManagementMVC\\Simple_Inventory_ManagementMVC.csproj|solutionrelative:simple_inventory_managementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDBContext.cs",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Models\\InventoryDBContext.cs",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Models\\InventoryDBContext.cs",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Models\\InventoryDBContext.cs",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Models\\InventoryDBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:05:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Models\\Product.cs",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Models\\Product.cs",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:05:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Dal\\Products.cs",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Dal\\Products.cs",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Dal\\Products.cs",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Dal\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:34:12.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T05:24:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA9wC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:02:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Inventory_ManagementMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Pa Agus Kurniawan\\Simple_Inventory_Management\\Simple_Inventory_ManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simple_Inventory_ManagementMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T05:02:10.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5qvxHO2w3YFqOhKrGR7xOeFJodXYnC1SpeN7mK4uRWc=",
+  "Source": "Simple_Inventory_ManagementAPI",
+  "BasePath": "_content/Simple_Inventory_ManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Simple_Inventory_Management": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
